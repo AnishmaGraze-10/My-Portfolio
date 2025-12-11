@@ -1,0 +1,82 @@
+# John Doe - Full Stack Developer Resume
+
+## Contact Information
+- Email: john.doe@example.com
+- Phone: +1 (555) 123-4567
+- Location: San Francisco, CA
+- GitHub: https://github.com/johndoe
+- LinkedIn: https://linkedin.com/in/johndoe
+
+## Professional Summary
+Experienced Full Stack Developer with 5+ years of expertise in modern web technologies. Passionate about creating scalable, user-centric applications with clean code and innovative solutions.
+
+## Skills
+### Frontend
+- React.js, Vue.js, Angular
+- TypeScript, JavaScript (ES6+)
+- HTML5, CSS3, Sass/SCSS
+- Tailwind CSS, Bootstrap
+- Three.js, Framer Motion
+
+### Backend
+- Node.js, Express.js
+- Python, Django, Flask
+- Java, Spring Boot
+- PostgreSQL, MongoDB, Redis
+- RESTful APIs, GraphQL
+
+### DevOps & Tools
+- Docker, Kubernetes
+- AWS, Google Cloud
+- Git, GitHub Actions
+- CI/CD, Jenkins
+- Linux, Shell Scripting
+
+## Work Experience
+
+### Senior Full Stack Developer
+**TechCorp Inc.** | San Francisco, CA | 2022 - Present
+- Led development of 3 major web applications serving 100K+ users
+- Implemented microservices architecture reducing API response time by 40%
+- Mentored 5 junior developers and conducted code reviews
+- Technologies: React, Node.js, PostgreSQL, AWS
+
+### Full Stack Developer
+**StartupXYZ** | San Francisco, CA | 2020 - 2022
+- Built and deployed 15+ features for SaaS platform
+- Optimized database queries improving performance by 60%
+- Collaborated with design team to implement responsive UI/UX
+- Technologies: Vue.js, Python, MongoDB, Docker
+
+## Projects
+
+### E-Commerce Platform
+- Full-stack e-commerce solution with real-time inventory management
+- Integrated payment processing with Stripe
+- Technologies: React, Node.js, MongoDB, Stripe
+
+### AI Chat Application
+- Real-time chat app with AI-powered responses
+- Implemented WebSocket for instant messaging
+- Technologies: Next.js, OpenAI API, PostgreSQL
+
+### Task Management System
+- Collaborative project management tool
+- Real-time updates and file sharing capabilities
+- Technologies: Vue.js, Express.js, MongoDB
+
+## Education
+**Bachelor of Science in Computer Science**
+University of California, Berkeley | 2015 - 2019
+
+## Certifications
+- AWS Certified Developer Associate
+- MongoDB Certified Developer
+- React Developer Certification
+
+## Languages
+- English (Native)
+- Spanish (Conversational)
+
+---
+*This is a sample resume. Please replace with your actual information.* 
